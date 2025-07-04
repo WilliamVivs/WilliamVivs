@@ -1,19 +1,19 @@
 # 🧑‍💻 Guillermo Vivancos Alonso
 
-Hi there! I'm Guillermo, a tech enthusiast with a background in **Computer Engineering**. I started my career focusing on **computing and data analysis**, but along the way, I discovered that what truly excites me is full stack programming.
+Hi there! I'm Guillermo, a tech enthusiast with a background in **Computer Engineering**. My professional journey began in **computing and data analysis**, which helped me build a solid foundation in logic, problem-solving, and working with large datasets.
 
-I'm currently working as a **Data Analyst**, which has given me a strong foundation in logic, problem-solving, and working with large datasets. However, I'm actively shifting my career path towards **full stack web development**, learning and building projects to sharpen my skills and make this transition a reality.
+Through my current role as a **Data Analyst**, I've developed a deep interest in **full stack web development**. In my spare time, I enjoy expanding my programming skills and building web applications to explore the creative and technical aspects of software development.
 
-### 🚀 Career Goal
+### 🚀 Ongoing Development
 
-My goal is to become a skilled and creative **Full Stack Developer**, capable of building complete web applications from the ground up. I'm working hard every day to improve my frontend and backend development skills and stay up to date with modern best practices.
+I'm committed to continuous learning and broadening my technical expertise — especially in full stack development. Whether it's frontend frameworks or backend logic, I enjoy diving into new challenges and keeping up with modern web technologies.
 
 ### 📂 Portfolio
 
-Check out some of my work and projects in my personal portfolio:
+Feel free to explore some of my personal projects and experiments in web development here:
 
 👉 [My Portfolio](https://www.williamvivs.space/)
 
 ---
 
-Thanks for visiting my repo! I'm always open to collaboration, learning, and connecting with fellow developers.
+Thanks for stopping by my repo! I'm always happy to connect, collaborate, and exchange ideas with fellow developers and tech enthusiasts.
